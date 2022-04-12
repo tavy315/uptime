@@ -22,7 +22,7 @@
     "url": "https://www.lg-imports.be",
     "icon": "https://favicons.githubusercontent.com/www.lg-imports.be",
     "slug": "lg-imports",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 1367,
     "timeMonth": 1367,
     "timeYear": 1367,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-12": 0
+    }
   }
 ]
