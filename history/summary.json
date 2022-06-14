@@ -4,10 +4,10 @@
     "url": "https://www.octav.name",
     "icon": "https://favicons.githubusercontent.com/www.octav.name",
     "slug": "octav-name",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "95.72%",
-    "uptimeWeek": "99.39%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "99.38%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.93%",
     "time": 1075,
@@ -16,7 +16,7 @@
     "timeMonth": 1462,
     "timeYear": 1075,
     "dailyMinutesDown": {
-      "2022-06-14": 43,
+      "2022-06-14": 44,
       "2022-06-13": 19
     }
   },
@@ -25,7 +25,7 @@
     "url": "https://www.lg-imports.be",
     "icon": "https://favicons.githubusercontent.com/www.lg-imports.be",
     "slug": "lg-imports",
-    "status": "up",
+    "status": "down",
     "uptime": "98.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.40%",
@@ -37,6 +37,7 @@
     "timeMonth": 1801,
     "timeYear": 2029,
     "dailyMinutesDown": {
+      "2022-06-14": 0,
       "2022-06-10": 60,
       "2022-06-09": 41,
       "2022-06-08": 21,
