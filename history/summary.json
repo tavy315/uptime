@@ -4,9 +4,9 @@
     "url": "https://www.octav.name",
     "icon": "https://favicons.githubusercontent.com/www.octav.name",
     "slug": "octav-name",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.73%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.87%",
@@ -16,6 +16,7 @@
     "timeMonth": 1430,
     "timeYear": 1060,
     "dailyMinutesDown": {
+      "2022-06-15": 0,
       "2022-06-14": 109,
       "2022-06-13": 19
     }
@@ -28,7 +29,7 @@
     "status": "up",
     "uptime": "98.07%",
     "uptimeDay": "94.11%",
-    "uptimeWeek": "97.30%",
+    "uptimeWeek": "97.32%",
     "uptimeMonth": "98.33%",
     "uptimeYear": "98.07%",
     "time": 1993,
