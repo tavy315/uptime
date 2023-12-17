@@ -4,11 +4,11 @@
     "url": "https://www.octav.name",
     "icon": "https://icons.duckduckgo.com/ip3/www.octav.name.ico",
     "slug": "octav-name",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 710,
     "timeDay": 157,
@@ -16,7 +16,7 @@
     "timeMonth": 674,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2023-12-17": 14
+      "2023-12-17": 0
     }
   }
 ]
