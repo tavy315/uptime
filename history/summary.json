@@ -6,17 +6,15 @@
     "slug": "octav-name",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 137,
-    "timeWeek": 208,
-    "timeMonth": 656,
-    "timeYear": 700,
-    "dailyMinutesDown": {
-      "2023-12-17": 13
-    }
+    "time": 708,
+    "timeDay": 97,
+    "timeWeek": 134,
+    "timeMonth": 643,
+    "timeYear": 698,
+    "dailyMinutesDown": {}
   }
 ]
