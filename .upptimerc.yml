@@ -5,6 +5,10 @@ repo: uptime # The name of this repository
 sites:
   - name: Octav.Name
     url: https://www.octav.name
+  - name: LG-Imports
+    url: https://www.lg-imports.be
+  - name: Taxandrian
+    url: https://www.taxandrian.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
