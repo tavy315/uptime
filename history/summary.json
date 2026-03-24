@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 204,
-    "timeDay": 166,
-    "timeWeek": 169,
+    "timeDay": 136,
+    "timeWeek": 165,
     "timeMonth": 192,
     "timeYear": 215,
     "dailyMinutesDown": {
@@ -26,15 +26,15 @@
     "slug": "lg-imports",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.75%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1788,
-    "timeDay": 837,
-    "timeWeek": 983,
-    "timeMonth": 1076,
-    "timeYear": 1076,
+    "time": 1780,
+    "timeDay": 707,
+    "timeWeek": 967,
+    "timeMonth": 1059,
+    "timeYear": 1059,
     "dailyMinutesDown": {
       "2026-03-22": 18
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 848,
-    "timeDay": 583,
-    "timeWeek": 797,
-    "timeMonth": 848,
-    "timeYear": 848,
+    "time": 839,
+    "timeDay": 665,
+    "timeWeek": 749,
+    "timeMonth": 839,
+    "timeYear": 839,
     "dailyMinutesDown": {}
   }
 ]
