@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 204,
-    "timeDay": 201,
-    "timeWeek": 216,
-    "timeMonth": 188,
+    "timeDay": 122,
+    "timeWeek": 208,
+    "timeMonth": 186,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2025-11-18": 130
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lg-imports.be.ico",
     "slug": "lg-imports",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 1817,
-    "timeDay": 895,
-    "timeWeek": 2531,
-    "timeMonth": 1392,
-    "timeYear": 1392,
+    "uptimeYear": "99.88%",
+    "time": 1809,
+    "timeDay": 703,
+    "timeWeek": 1850,
+    "timeMonth": 1386,
+    "timeYear": 1372,
     "dailyMinutesDown": {
       "2026-03-30": 37,
       "2026-03-22": 18
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 833,
-    "timeDay": 854,
-    "timeWeek": 919,
-    "timeMonth": 833,
-    "timeYear": 833,
+    "time": 826,
+    "timeDay": 588,
+    "timeWeek": 885,
+    "timeMonth": 823,
+    "timeYear": 826,
     "dailyMinutesDown": {}
   }
 ]
