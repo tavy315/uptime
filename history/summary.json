@@ -45,17 +45,19 @@
     "url": "https://www.taxandrian.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.taxandrian.com.ico",
     "slug": "taxandrian",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 819,
-    "timeDay": 745,
-    "timeWeek": 809,
-    "timeMonth": 817,
-    "timeYear": 819,
-    "dailyMinutesDown": {}
+    "time": 813,
+    "timeDay": 649,
+    "timeWeek": 777,
+    "timeMonth": 809,
+    "timeYear": 813,
+    "dailyMinutesDown": {
+      "2026-04-13": 0
+    }
   }
 ]
