@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 205,
-    "timeDay": 309,
-    "timeWeek": 231,
-    "timeMonth": 182,
+    "timeDay": 135,
+    "timeWeek": 209,
+    "timeMonth": 181,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2025-11-18": 130
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.91%",
-    "time": 1772,
-    "timeDay": 1513,
-    "timeWeek": 1183,
-    "timeMonth": 1366,
-    "timeYear": 1297,
+    "time": 1774,
+    "timeDay": 1114,
+    "timeWeek": 1189,
+    "timeMonth": 1375,
+    "timeYear": 1293,
     "dailyMinutesDown": {
       "2026-03-30": 37,
       "2026-03-22": 18
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.taxandrian.com.ico",
     "slug": "taxandrian",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.80%",
-    "time": 815,
-    "timeDay": 1039,
-    "timeWeek": 803,
-    "timeMonth": 792,
-    "timeYear": 815,
+    "uptimeYear": "99.81%",
+    "time": 810,
+    "timeDay": 584,
+    "timeWeek": 766,
+    "timeMonth": 779,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2026-04-13": 119
     }
